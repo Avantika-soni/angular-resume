@@ -1,0 +1,13 @@
+
+
+@media (max-width: 800px) {
+    .flex-container {
+      
+      flex-direction: column;
+    }
+
+    .flex-item-right
+    {
+
+       margin-top: 2rem;
+     }}

@@ -1,0 +1,19 @@
+:host{
+    display:block;
+}
+h1{ 
+    color:var(--green);
+}
+section{
+    outline: 1px solid black;
+    border-radius: 1rem;
+    display: inline-block;
+    width: 95px;
+    text-align: center;
+    margin: 1rem;
+    text-align :center;
+    display: center;
+    font-size: 1rem;
+
+
+}

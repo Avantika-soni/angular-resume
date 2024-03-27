@@ -1,0 +1,17 @@
+<div class="container">
+    <h1 class="title">
+        <span>Personal Information</span>
+    </h1>
+
+    
+    <div class="flex-container">
+    <table class="flex-item-left">
+        <tr *ngFor="let row of MyData">
+            <td *ngFor="let col of row">{{col}}</td>
+        </tr>
+    </table>
+    <section class="flex-item-right">
+        <p *ngFor="let sentence of AboutMe">{{sentence}}</p>
+    </section>
+    </div>
+</div>

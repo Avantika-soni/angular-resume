@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+    --green: #69f0ae;
+    --green-light: #b9f6ca;
+    --gray-light: #bdbdbd;
+    --dark-gray: #263238;
+    --black: #212121;
+
+}
+
+* {
+margin: auto;
+box-sizing: border-box;
+
+}
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.conatiner{
+    margin: 0 auto;
+    max-width: 1500px;
+    outline: 0px solid white;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+h1{
+    padding: 1 rem 0;
+    text-align :center;
+    letter-spacing:1px;
+    color:#69f0ae;
+    outline: 1px solid black;
+    font-family: 'Roboto Condended', sans-serif ;
+
+}

@@ -1,0 +1,8 @@
+h1{
+    color:var(--green);
+}
+.section1{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 1rem;
+}
